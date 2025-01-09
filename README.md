@@ -33,4 +33,4 @@ This system significantly reduces experimental costs and improves efficiency for
 - **MCU**: (optional) for temp+humid [D1 mini](https://a.co/d/eWSJpXV)
 
 ## Installation
-Please read this pdf manual for assembling upper part
+Please read this [pdf manual](UpperPartInstructions.pdf) to assemble the upper part
